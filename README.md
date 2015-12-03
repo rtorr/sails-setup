@@ -11,6 +11,6 @@ npm install
 
 npm start
 
-open
+open [http://localhost:1337/](http://localhost:1337/)
 
 ```
